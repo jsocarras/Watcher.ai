@@ -4,4 +4,3 @@ pandas
 numpy
 openpyxl
 bs4
-csv
