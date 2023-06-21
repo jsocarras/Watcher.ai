@@ -14,6 +14,7 @@ This Python application, using the Streamlit framework, enables you to scrape wa
 These dependencies can be installed using pip:
 ```bash
 pip install streamlit pandas beautifulsoup4 requests
+```
 
 ## Code Structure
 - app.py: This is the main file which runs the Streamlit application.
@@ -23,11 +24,13 @@ pip install streamlit pandas beautifulsoup4 requests
 You can download the code by cloning this repository:
 ```bash
 git clone <repository URL>
+```
 
 ## Running the Application
 Navigate into the directory where the application's code is located and run the following command:
 ```bash
 streamlit run app.py
+```
 
 ## How to Use
 Open the application by visiting localhost:8501 in your web browser after running the command above.
