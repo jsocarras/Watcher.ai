@@ -3,5 +3,5 @@ streamlit
 pandas
 numpy
 openpyxl
-BeautifulSoup
+bs4
 csv
